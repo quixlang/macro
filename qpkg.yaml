@@ -1,0 +1,10 @@
+headers: ["include"]
+target: "sharedlib"
+sources: ["src"]
+licenses: ["MIT"]
+authors: ["Wesley Jones"]
+url: "https:\/\/qpkg.io"
+emails: ["project@qpkg.io"]
+description: "QUIX Macro privides macros"
+name: "macro"
+version: 1

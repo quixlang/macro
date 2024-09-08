@@ -1,0 +1,5 @@
+.qpkg/
+macro
+macro.exe
+libmacro.a
+libmacro.so
