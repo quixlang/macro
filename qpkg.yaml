@@ -1,4 +1,4 @@
-headers: ["include"]
+headers: []
 target: "sharedlib"
 sources: ["src"]
 licenses: ["MIT"]
